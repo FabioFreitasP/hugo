@@ -233,3 +233,5 @@ archive_alias_replacements = { "linux-amd64.tar.gz" = "Linux-64bit.tar.gz" }
     # hugoreleaser build -paths "builds/container2/**"
     # hugoreleaser archive 
     # hugoreleaser release
+    
+    sdfsdfsdf
